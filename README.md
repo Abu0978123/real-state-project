@@ -1,2 +1,4 @@
-this is a real state project on a property company 
-<img src="./public/contact.jpg"/>
+
+<img src="./demo-pic-1.PNG"/>
+<img src="./demo-pic-2.PNG"/>
+<img src="./demo-pic-3.PNG"/>

@@ -1,2 +1,2 @@
 this is a real state project on a property company 
-<img src="./contact.jpj"/>
+<img src="./contact.jpg"/>
